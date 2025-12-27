@@ -1,0 +1,36 @@
+h1{
+    color: white;
+    font: normal 18pt Arial;
+    align-items: center;
+    margin: 20px;
+}
+
+body{
+    background-color: #e2cd9f;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    width: auto;
+    height: auto;
+}
+
+div#msg{
+    margin: 20px;
+    font: normal 16pt Arial;
+    align-items: center;
+    color: white;
+    border-radius: 20%;
+}
+
+div#img{
+    margin: 20px;
+    align-items: center;
+}
+
+footer{
+    margin-top: 50px;
+    font: normal 12pt Arial;
+    align-items: center;
+    color: white;
+
+}
